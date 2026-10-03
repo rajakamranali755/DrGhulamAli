@@ -1,0 +1,285 @@
+[
+  {
+    "src": "087.jpg",
+    "out": "hero-portrait.png",
+    "role": "portrait",
+    "cutout": true,
+    "rect": [
+      0.1,
+      0.02,
+      0.82,
+      0.98
+    ],
+    "trim_bottom": 0.07
+  },
+  {
+    "src": "037.jpg",
+    "out": "hero-multilingual.jpg",
+    "role": "hero"
+  },
+  {
+    "src": "076.jpg",
+    "out": "hero-ai.jpg",
+    "role": "hero"
+  },
+  {
+    "src": "054.jpg",
+    "out": "hero-translation.jpg",
+    "role": "hero"
+  },
+  {
+    "src": "049.jpg",
+    "out": "hero-together.jpg",
+    "role": "hero"
+  },
+  {
+    "src": "000.jpg",
+    "out": "tranvisionsummit.jpeg",
+    "role": "portrait"
+  },
+  {
+    "src": "092.jpg",
+    "out": "bio-about.jpg",
+    "role": "portrait"
+  },
+  {
+    "src": "050.jpg",
+    "out": "bio-podium.jpg",
+    "role": "feature"
+  },
+  {
+    "src": "006.jpg",
+    "out": "research-lab.jpg",
+    "role": "feature"
+  },
+  {
+    "src": "059.jpg",
+    "out": "research-pillars.jpg",
+    "role": "feature"
+  },
+  {
+    "src": "052.jpg",
+    "out": "impact-background.jpg",
+    "role": "banner"
+  },
+  {
+    "src": "070.jpg",
+    "out": "initiative-grammora.jpg",
+    "role": "card"
+  },
+  {
+    "src": "083.jpg",
+    "out": "grammoralogo.svg",
+    "role": "card"
+  },
+  {
+    "src": "003.jpg",
+    "out": "contribution-language-policy.jpg",
+    "role": "card"
+  },
+  {
+    "src": "058.jpg",
+    "out": "contribution-punjab-laws.jpg",
+    "role": "card"
+  },
+  {
+    "src": "015.jpg",
+    "out": "contribution-election-rules.jpg",
+    "role": "card"
+  },
+  {
+    "src": "025.jpg",
+    "out": "contribution-parenting.jpg",
+    "role": "card"
+  },
+  {
+    "src": "061.jpg",
+    "out": "projects-hero.jpg",
+    "role": "banner"
+  },
+  {
+    "src": "005.jpg",
+    "out": "research-action.jpg",
+    "role": "feature"
+  },
+  {
+    "src": "071.jpg",
+    "out": "grammoralogo.svg",
+    "role": "feature"
+  },
+  {
+    "src": "073.jpg",
+    "out": "project-lekhari.jpg",
+    "role": "feature"
+  },
+  {
+    "src": "055.jpg",
+    "out": "project-language-policy.jpg",
+    "role": "feature"
+  },
+  {
+    "src": "gallery-02.jpg",
+    "out": "gallery-02.jpg",
+    "role": "feature"
+  },
+  {
+    "src": "068.jpg",
+    "out": "media-1.jpg",
+    "role": "card"
+  },
+  {
+    "src": "084.jpg",
+    "out": "media-2.jpg",
+    "role": "card"
+  },
+  {
+    "src": "089.jpg",
+    "out": "media-3.jpg",
+    "role": "card"
+  },
+  {
+    "src": "057.jpg",
+    "out": "media-4.jpg",
+    "role": "card"
+  },
+  {
+    "src": "031.jpg",
+    "out": "media-5.jpg",
+    "role": "card"
+  },
+  {
+    "src": "032.jpg",
+    "out": "media-6.jpg",
+    "role": "card"
+  },
+  {
+    "src": "046.jpg",
+    "out": "media-7.jpg",
+    "role": "card"
+  },
+  {
+    "src": "049.jpg",
+    "out": "banner-about.jpg",
+    "role": "banner"
+  },
+  {
+    "src": "005.jpg",
+    "out": "banner-research.jpg",
+    "role": "banner"
+  },
+  {
+    "src": "061.jpg",
+    "out": "banner-projects.jpg",
+    "role": "banner"
+  },
+  {
+    "src": "084.jpg",
+    "out": "banner-media.jpg",
+    "role": "banner"
+  },
+  {
+    "src": "003.jpg",
+    "out": "banner-contact.jpg",
+    "role": "banner"
+  },
+  {
+    "src": "064.jpg",
+    "out": "banner-not-found.jpg",
+    "role": "banner"
+  },
+  {
+    "src": "007.jpg",
+    "out": "gallery-01.jpg",
+    "role": "gallery"
+  },
+  {
+    "src": "011.jpg",
+    "out": "gallery-02.jpg",
+    "role": "gallery"
+  },
+  {
+    "src": "013.jpg",
+    "out": "impact-background.jpg",
+    "role": "gallery"
+  },
+  {
+    "src": "017.jpg",
+    "out": "gallery-04.jpg",
+    "role": "gallery"
+  },
+  {
+    "src": "018.jpg",
+    "out": "gallery-05.jpg",
+    "role": "gallery"
+  },
+  {
+    "src": "024.jpg",
+    "out": "gallery-06.jpg",
+    "role": "gallery"
+  },
+  {
+    "src": "036.jpg",
+    "out": "gallery-07.jpg",
+    "role": "gallery"
+  },
+  {
+    "src": "040.jpg",
+    "out": "gallery-08.jpg",
+    "role": "gallery"
+  },
+  {
+    "src": "045.jpg",
+    "out": "gallery-09.jpg",
+    "role": "gallery"
+  },
+  {
+    "src": "047.jpg",
+    "out": "gallery-10.jpg",
+    "role": "gallery"
+  },
+  {
+    "src": "060.jpg",
+    "out": "gallery-11.jpg",
+    "role": "gallery"
+  },
+  {
+    "src": "063.jpg",
+    "out": "gallery-12.jpg",
+    "role": "gallery"
+  },
+  {
+    "src": "064.jpg",
+    "out": "gallery-13.jpg",
+    "role": "gallery"
+  },
+  {
+    "src": "077.jpg",
+    "out": "gallery-15.jpg",
+    "role": "gallery"
+  },
+  {
+    "src": "082.jpg",
+    "out": "gallery-16.jpg",
+    "role": "gallery"
+  },
+  {
+    "src": "088.jpg",
+    "out": "gallery-17.jpg",
+    "role": "gallery"
+  },
+  {
+    "src": "097.jpg",
+    "out": "gallery-18.jpg",
+    "role": "gallery"
+  },
+  {
+    "src": "099.jpg",
+    "out": "gallery-19.jpg",
+    "role": "gallery"
+  },
+  {
+    "src": "107.jpg",
+    "out": "gallery-20.jpg",
+    "role": "gallery"
+  }
+]
