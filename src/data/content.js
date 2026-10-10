@@ -12,8 +12,8 @@ export const SITE = {
   name: 'Dr. Ghulam Ali',
   shortName: 'Dr Ghulam Ali',
   role: 'Director, Centre for Languages and Translation Studies (CeLTS), Allama Iqbal Open University',
-  footerRole: 'Director, Centre for Language Technologies & Studies (CeLTS), Allama Iqbal Open University',
-  tagline: 'Scholar • Researcher • Academic Leader',
+  footerRole: 'Director, Centre for Languages and Translation Studies (CeLTS), Allama Iqbal Open University (AIOU)',
+    tagline: 'Scholar • Researcher • Academic Leader',
   logoLine1: 'Dr. Ghulam Ali',
   logoLine2: 'Director CeLTS · Allama Iqbal Open University',
 };
@@ -298,7 +298,7 @@ export const FLAGSHIPS = [
     title: 'Lekhari',
     text: 'Lekhari is an AI-based linguistic platform developed to strengthen Urdu’s role in the digital and artificial intelligence era. It focuses on intelligent writing, language learning, linguistic analysis, and the development of computational resources for Urdu. The project contributes to linguistic inclusion, cultural preservation, and Pakistan’s technological sovereignty by developing indigenous language technologies for a low-resource language.',
     link: { label: 'Learn More', to: '/project#lekhari' },
-    image: img('initiative-lekhari.jpg'),
+    image: img('grammoralogo.svg'),
     contain: true,
   },
 ];

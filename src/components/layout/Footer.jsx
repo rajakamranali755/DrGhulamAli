@@ -76,13 +76,7 @@ export default function Footer() {
             Copyright © {new Date().getFullYear() < 2026 ? 2026 : new Date().getFullYear()} <Link to="/">{SITE.name}</Link> | All Rights
             Reserved.
           </p>
-          <p>
-            Developed by{' '}
-            <a href="https://azdigitalworks.com/" target="_blank" rel="noopener noreferrer">
-              AZ Digital Works
-            </a>
-            .
-          </p>
+
         </div>
       </div>
     </footer>

@@ -69,7 +69,10 @@ export default function HeroSlider({ slides, interval = 6000 }) {
             <div className="hero__overlay" />
             <div className="container hero__content">
               <span className="hero__kicker">{s.kicker}</span>
-              <H className="hero__title">
+                           <H className="hero__title">
+                {i === 0 && (
+                  <span className="sr-only">Dr. Ghulam Ali, Director CeLTS, Allama Iqbal Open University (AIOU) – </span>
+                )}
                 <span className="hero__line1">{s.line1}</span>
                 <span className="hero__line2">{s.line2}</span>
               </H>

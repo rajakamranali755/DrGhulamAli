@@ -1,4 +1,4 @@
-import usePageTitle from '@/hooks/usePageTitle';
+import useSeo from '@/hooks/useSeo';
 import { ACHIEVEMENTS, BANNERS, BIO, JOURNEY } from '@/data/content';
 import PageBanner from '@/components/ui/PageBanner';
 import AboutSection from '@/components/sections/AboutSection';
@@ -34,7 +34,11 @@ function Journey() {
 }
 
 export default function AboutPage() {
-  usePageTitle('about');
+    useSeo({
+    title: 'About',
+    description: 'About Dr. Ghulam Ali, Director of CeLTS at Allama Iqbal Open University (AIOU): his academic journey, achievements and mission in translation and language studies.',
+    path: '/about',
+  });
   return (
     <>
       <PageBanner
@@ -44,6 +48,7 @@ export default function AboutPage() {
         image={BANNERS.about}
         crumb="About"
       />
+      
       <AboutSection image={BIO.aboutImage} button={false} />
       <Journey />
       <ImpactBand

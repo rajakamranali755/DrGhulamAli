@@ -1,4 +1,4 @@
-import usePageTitle from '@/hooks/usePageTitle';
+import useSeo from '@/hooks/useSeo';
 import { BANNERS, CONTACT, CONTACT_PAGE, SOCIALS } from '@/data/content';
 import PageBanner from '@/components/ui/PageBanner';
 import SectionTitle from '@/components/ui/SectionTitle';
@@ -8,7 +8,11 @@ import ContactForm from '@/components/ui/ContactForm';
 import FeatureGrid from '@/components/sections/FeatureGrid';
 
 export default function ContactPage() {
-  usePageTitle('Contact');
+  useSeo({
+    title: 'About',
+    description: 'About Dr. Ghulam Ali, Director of CeLTS at Allama Iqbal Open University (AIOU): his academic journey, achievements and mission in translation and language studies.',
+    path: '/about',
+  });
   const info = [
     { icon: 'MapPin', label: 'Address', value: CONTACT.address },
     { icon: 'Mail', label: 'Email', value: CONTACT.email, href: CONTACT.emailHref },

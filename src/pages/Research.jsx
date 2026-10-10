@@ -1,4 +1,4 @@
-import usePageTitle from '@/hooks/usePageTitle';
+import useSeo from '@/hooks/useSeo';
 import { BANNERS, CONTRIBUTIONS, FLAGSHIPS, RESEARCH_INTRO } from '@/data/content';
 import PageBanner from '@/components/ui/PageBanner';
 import SectionTitle from '@/components/ui/SectionTitle';
@@ -10,7 +10,11 @@ import PublicationLists from '@/components/sections/PublicationLists';
 import CtaBand from '@/components/sections/CtaBand';
 
 export default function ResearchPage() {
-  usePageTitle('Research and publication');
+  useSeo({
+    title: 'Research & Publications',
+    description: 'Research and publications by Dr. Ghulam Ali in Translation Studies, Applied Linguistics, Corpus Linguistics and AI language technologies at CeLTS, AIOU.',
+    path: '/research-and-publication',
+  });
   return (
     <>
       <PageBanner
